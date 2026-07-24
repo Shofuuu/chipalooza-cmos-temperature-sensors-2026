@@ -34,7 +34,7 @@ Proposals must be submitted to `chipalooza@opencircuitdesign.com` . Designers ma
 
 **Sent Separately:** 
 - [ ] List of available testing equipment.
-- [ ] Designer CVs.
+- [x] Designer CVs.
 
 ## ⚙️ Technical Details & Specifications 
 
